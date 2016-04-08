@@ -1,0 +1,25 @@
+/* =============  general styles  =========== */ 
+body{ background: url('../../img/fabric_of_squares_gray.png'); }
+.container{ width:90%; margin:0 auto; }
+#main-content{ border:1px solid #ccc; border-radius:3px; padding:10px; background:#f0f0f0; box-shadow: 0 0 1px #ccc;  }
+
+/* =============  header  =========== */ 
+#top-nav-menu{ margin-top:20px; margin-bottom:50px; }
+#top-header{ margin-top:20px; margin-bottom:20px; }
+#top-header .card .content img{ width:90px; height:90px; }
+#top-header .card{ margin-top:-25px; }
+#top-header .card .extra.content h4{ margin: 10px 0 5px 0; }
+
+/* =============  side menu  =========== */ 
+.ui.vertical.menu .item .menu .active.item {
+	background-color: transparent;
+	box-shadow: none;
+	color: rgb(0, 181, 173);
+	font-weight: bold;
+}
+
+/* =============  login form  =========== */ 
+#login-form { margin-top: 10%; }
+
+
+
